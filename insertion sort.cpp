@@ -1,5 +1,4 @@
 #include<iostream>
-#define swap(x,y,t){ t=x; x=y; y=t; }
 using namespace std;
 int main()
 {
@@ -19,7 +18,7 @@ int main()
 			a[j+1]=a[j];
 			j-=1;
 		}
-		a[j+1]=key;8888888888888888888i
+		a[j+1]=k;
 		
 		cout<<"After "<<i<<" sorting \n";
 		for(k=0;k<n;k++)
